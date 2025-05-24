@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+.ResumeMainDiv {
+  background-color: black;
+  height: auto;
+  padding: 3% 20%;
+  color: #ffffffb4;
+}
+.ResumeMainDiv h2:hover {
+  color: #fff;
+}
+.ResumeMainDiv h3 {
+  margin: 3% 0%;
+}
+.ResumeMainDiv h3:hover {
+  color: #fff;
+}
+.ResumeMainDiv h5:hover {
+  color: #fff;
+}
+.ResumeMainDiv h6:hover {
+  color: #fff;
+}
+.ResumeMainDiv li:hover {
+  color: #fff;
+}
+.ResumeMainDiv p:hover {
+  color: #fff;
+}
+
+/* Responsive Style */
+@media (max-width: 768px) {
+  .ResumeMainDiv {
+    padding: 3% 10%;
+  }
+
+  .ResumeMainDiv h2 {
+    font-size: 1.8rem;
+  }
+
+  .ResumeMainDiv h6 {
+    font-size: 1rem;
+  }
+
+  .ResumeMainDiv ul li {
+    font-size: 0.9rem;
+  }
+
+  .ResumeMainDiv h3 {
+    font-size: 1.2rem;
+  }
+
+  .ResumeMainDiv p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .ResumeMainDiv {
+    padding: 5% 5%;
+  }
+
+  .ResumeMainDiv h2 {
+    font-size: 1.6rem;
+  }
+
+  .ResumeMainDiv h6 {
+    font-size: 0.9rem;
+  }
+
+  .ResumeMainDiv ul li {
+    font-size: 0.8rem;
+  }
+
+  .ResumeMainDiv h3 {
+    font-size: 1.1rem;
+  }
+
+  .ResumeMainDiv p {
+    font-size: 0.8rem;
+  }
+
+  .ResumeMainDiv h6 {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+}
