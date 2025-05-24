@@ -11,7 +11,7 @@ import Resume from "./Components/Resume";
 function App() {
   return (
     <>
-      <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/skills" element={<Skills />} />
