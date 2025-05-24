@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8c0c5546.css",
+    "main.js": "/portfolio/static/js/main.0fc48c15.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Html.webp": "/portfolio/static/media/Html.eb46c878323f3d304635.webp",
+    "static/media/LincyImage.jpg": "/portfolio/static/media/LincyImage.f4dbceb2aaecfe05676e.jpg",
+    "static/media/library.png": "/portfolio/static/media/library.f54b422005219dd0de3b.png",
+    "static/media/React.png": "/portfolio/static/media/React.85fdbe6d8d4571a01ba6.png",
+    "static/media/School.jpg": "/portfolio/static/media/School.1e4228755058e33af7dd.jpg",
+    "static/media/Highschool.jpg": "/portfolio/static/media/Highschool.1fff83b7e510404957c0.jpg",
+    "static/media/Bootstrap.png": "/portfolio/static/media/Bootstrap.b74e54d4897791a51840.png",
+    "static/media/Css.png": "/portfolio/static/media/Css.eec3d62a3037559f4d4b.png",
+    "static/media/Javascript.png": "/portfolio/static/media/Javascript.63cbfafdcf1063d82a23.png",
+    "static/media/Node.png": "/portfolio/static/media/Node.c9a5a86c183966639f69.png",
+    "static/media/College.jpg": "/portfolio/static/media/College.6ceb5237312020722a5d.jpg",
+    "static/media/MongoDB.webp": "/portfolio/static/media/MongoDB.c5c0b1289b097c211b64.webp",
+    "index.html": "/portfolio/index.html",
+    "main.8c0c5546.css.map": "/portfolio/static/css/main.8c0c5546.css.map",
+    "main.0fc48c15.js.map": "/portfolio/static/js/main.0fc48c15.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c0c5546.css",
+    "static/js/main.0fc48c15.js"
+  ]
+}
