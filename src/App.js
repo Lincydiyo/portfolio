@@ -1,5 +1,6 @@
 import "./App.css";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import NavBar from "./Components/NavBar"; 
 import Home from "./Components/Home";
 import Skills from "./Components/Skills";
 import Education from "./Components/Education";
@@ -11,6 +12,7 @@ import Resume from "./Components/Resume";
 function App() {
   return (
     <Router>
+      <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/skills" element={<Skills />} />
