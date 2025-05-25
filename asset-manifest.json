@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8c0c5546.css",
-    "main.js": "/portfolio/static/js/main.b8178417.js",
+    "main.css": "/portfolio/static/css/main.34f25bcb.css",
+    "main.js": "/portfolio/static/js/main.c3746ec2.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Html.webp": "/portfolio/static/media/Html.eb46c878323f3d304635.webp",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.c5a8c616906575db3b2b.jpg",
     "static/media/LincyImage.jpg": "/portfolio/static/media/LincyImage.f4dbceb2aaecfe05676e.jpg",
     "static/media/library.png": "/portfolio/static/media/library.f54b422005219dd0de3b.png",
     "static/media/React.png": "/portfolio/static/media/React.85fdbe6d8d4571a01ba6.png",
@@ -16,12 +17,12 @@
     "static/media/College.jpg": "/portfolio/static/media/College.6ceb5237312020722a5d.jpg",
     "static/media/MongoDB.webp": "/portfolio/static/media/MongoDB.c5c0b1289b097c211b64.webp",
     "index.html": "/portfolio/index.html",
-    "main.8c0c5546.css.map": "/portfolio/static/css/main.8c0c5546.css.map",
-    "main.b8178417.js.map": "/portfolio/static/js/main.b8178417.js.map",
+    "main.34f25bcb.css.map": "/portfolio/static/css/main.34f25bcb.css.map",
+    "main.c3746ec2.js.map": "/portfolio/static/js/main.c3746ec2.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c0c5546.css",
-    "static/js/main.b8178417.js"
+    "static/css/main.34f25bcb.css",
+    "static/js/main.c3746ec2.js"
   ]
 }
