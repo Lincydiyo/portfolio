@@ -12,6 +12,7 @@ import Resume from "./Components/Resume";
 function App() {
   return (
     <Router>
+      <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/skills" element={<Skills />} />

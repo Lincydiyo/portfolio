@@ -1,5 +1,3 @@
-import React from "react";
-import NavBar from "./NavBar";
 import "../CssFolder/Education.css";
 import Card from "react-bootstrap/Card";
 import Row from "react-bootstrap/Row";
@@ -12,7 +10,6 @@ import College from "../ImageFolder/College.jpg";
 function Education() {
   return (
     <>
-      <NavBar />
       <div className="EducationDiv">
         <Container>
           <Row>

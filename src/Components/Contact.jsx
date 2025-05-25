@@ -1,5 +1,3 @@
-import React from "react";
-import NavBar from "./NavBar";
 import "../CssFolder/Contact.css";
 
 function Contact() {
@@ -9,7 +7,6 @@ function Contact() {
 
   return (
     <>
-      <NavBar />
       <div className="ContactDiv">
         <section className="ContactSection">
           <h3>Contact Details</h3>

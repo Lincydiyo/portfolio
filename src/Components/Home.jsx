@@ -1,5 +1,3 @@
-import React from "react";
-import NavBar from "./NavBar";
 import "../CssFolder/Home.css";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -12,7 +10,6 @@ import { IoLogoGithub } from "react-icons/io5";
 function Home() {
   return (
     <>
-      <NavBar />
       <div className="HomeMainDiv">
         <Container>
           <Row className="align-items-center">

@@ -1,5 +1,3 @@
-import React from "react";
-import NavBar from "./NavBar";
 import "../CssFolder/About.css";
 import Card from "react-bootstrap/Card";
 import Row from "react-bootstrap/Row";
@@ -9,7 +7,6 @@ import Container from "react-bootstrap/Container";
 function About() {
   return (
     <>
-      <NavBar />
       <div className="AboutDiv">
         <section className="AboutSection">
           <h2>Career overview</h2>

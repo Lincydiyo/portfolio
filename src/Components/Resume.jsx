@@ -1,5 +1,3 @@
-import React from "react";
-import NavBar from "./NavBar";
 import "../CssFolder/Resume.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { BsTelephone } from "react-icons/bs";
@@ -14,7 +12,6 @@ import { PiCertificateLight } from "react-icons/pi";
 function Resume() {
   return (
     <>
-      <NavBar />
       <div className="ResumeMainDiv">
         <h2>Lincy D</h2>
         <h3>Software Developer</h3>

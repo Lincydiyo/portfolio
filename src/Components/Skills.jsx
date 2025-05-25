@@ -1,4 +1,3 @@
-import NavBar from "./NavBar";
 import "../CssFolder/Skills.css";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -16,7 +15,6 @@ import MongoDB from "../ImageFolder/MongoDB.webp";
 function Skills() {
   return (
     <>
-      <NavBar />
       <div className="SkillsDiv">
         <Container>
           <Row>
