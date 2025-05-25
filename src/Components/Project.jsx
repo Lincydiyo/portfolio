@@ -3,7 +3,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Container from "react-bootstrap/Container";
 import library from "../ImageFolder/library.png";
-import portfolio from "../ImageFolder/portfolio.jpg"
+import portfolio from "../ImageFolder/portfolio.jpg";
 import "../CssFolder/Project.css";
 
 function Project() {
@@ -21,12 +21,19 @@ function Project() {
                 </Card.Body>
               </Card>
             </Col>
-           <Col xs={12} md={6} lg={3}>
+            <Col xs={12} md={6} lg={3}>
               <Card className="MainCard">
-                <Card.Img variant="top" src={portfolio} height={200}/>
+                <Card.Img variant="top" src={portfolio} height={200} />
                 <Card.Body className="CardBody">
                   <Card.Title>Portfolio</Card.Title>
-                  <button type="button"><a href="/#">Click Here</a></button>
+                  <a
+                    href="https://lincydiyo.github.io/portfolio/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn btn-primary"
+                  >
+                    Click Here
+                  </a>{" "}
                 </Card.Body>
               </Card>
             </Col>
@@ -41,10 +48,17 @@ function Project() {
             </Col>
             <Col xs={12} md={6} lg={3}>
               <Card className="MainCard">
-                <Card.Img variant="top" src={portfolio} height={200}/>
+                <Card.Img variant="top" src={portfolio} height={200} />
                 <Card.Body className="CardBody">
                   <Card.Title>Portfolio</Card.Title>
-                  <button type="button"><a href="/#">Click Here</a></button>
+                  <a
+                    href="https://lincydiyo.github.io/portfolio/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn btn-primary"
+                  >
+                    Click Here
+                  </a>{" "}
                 </Card.Body>
               </Card>
             </Col>
