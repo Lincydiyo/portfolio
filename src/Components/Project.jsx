@@ -26,14 +26,16 @@ function Project() {
                 <Card.Img variant="top" src={portfolio} height={200} />
                 <Card.Body className="CardBody">
                   <Card.Title>Portfolio</Card.Title>
-                  <a
+                  <button type="button">
+ <a
                     href="https://lincydiyo.github.io/portfolio/"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="btn btn-primary"
                   >
                     Click Here
-                  </a>{" "}
+                  </a>
+                  </button>
+                 
                 </Card.Body>
               </Card>
             </Col>
@@ -51,14 +53,16 @@ function Project() {
                 <Card.Img variant="top" src={portfolio} height={200} />
                 <Card.Body className="CardBody">
                   <Card.Title>Portfolio</Card.Title>
-                  <a
+                  <button type="button">
+ <a
                     href="https://lincydiyo.github.io/portfolio/"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="btn btn-primary"
                   >
                     Click Here
-                  </a>{" "}
+                  </a>
+                  </button>
+                 
                 </Card.Body>
               </Card>
             </Col>
