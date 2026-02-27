@@ -3,7 +3,6 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import LincyImage from "../ImageFolder/LincyImage.jpg";
-import { BsInstagram } from "react-icons/bs";
 import { FaLinkedin } from "react-icons/fa";
 import { IoLogoGithub } from "react-icons/io5";
 
@@ -22,15 +21,7 @@ function Home() {
               <h3>Full-stack developer (MERN)</h3>
               <section className="icon">
                 <ul>
-                  <li>
-                    <a
-                      href="https://www.instagram.com"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      <BsInstagram style={{ fontSize: "25px" }} />
-                    </a>
-                  </li>
+                
                   <li>
                     <a
                       href="https://www.linkedin.com/in/lincy-diyo/"
